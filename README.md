@@ -7,7 +7,7 @@ Original:
 
 Static R Version:
 
-![elegant](https://user-images.githubusercontent.com/3278367/32996669-a8d2d368-cd7d-11e7-8a3a-454c77f41fe2.png)
+![elegant](https://user-images.githubusercontent.com/3278367/32996705-0690b9ca-cd7e-11e7-88ae-b1fee14ffcfa.png)
 
 
 Animated:
