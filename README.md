@@ -19,4 +19,8 @@ Animated & faceted by Ward/Dept  :
 
 ![output_facet](https://user-images.githubusercontent.com/3278367/32989923-7e0d432c-cd17-11e7-8e07-3be15e9ee511.gif)
 
+Trial Real Time A&E LOS Histogram (Anonymised Patients):
+
+![ae_los](https://user-images.githubusercontent.com/3278367/33046915-fbd7319e-ce4a-11e7-9308-84b9045c2709.gif)
+
 
