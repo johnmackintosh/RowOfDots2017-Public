@@ -19,9 +19,10 @@ Animated & faceted by Ward/Dept  :
 
 ![output_facet](https://user-images.githubusercontent.com/3278367/32989923-7e0d432c-cd17-11e7-8e07-3be15e9ee511.gif)
 
+
 Real Time A&E LOS Histogram:
 
-![ae_los2](https://user-images.githubusercontent.com/3278367/33088659-28b59e44-cee6-11e7-91be-9967ffce9b46.gif)
+![ae_los3](https://user-images.githubusercontent.com/3278367/33091118-1843e6f8-ceee-11e7-8343-b9254058034e.gif)
 
 
 
