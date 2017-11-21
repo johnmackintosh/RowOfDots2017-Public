@@ -22,7 +22,8 @@ Animated & faceted by Ward/Dept  :
 
 Real Time A&E LOS Histogram:
 
-![ae_los3](https://user-images.githubusercontent.com/3278367/33091118-1843e6f8-ceee-11e7-8343-b9254058034e.gif)
+![ae_los_good_day_final](https://user-images.githubusercontent.com/3278367/33101203-3e4aa69a-cf0f-11e7-9a81-06ef4847966b.gif)
+
 
 
 
