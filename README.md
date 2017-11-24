@@ -25,5 +25,10 @@ Real Time A&E LOS Histogram:
 ![ae_los_good_day_final](https://user-images.githubusercontent.com/3278367/33101203-3e4aa69a-cf0f-11e7-9a81-06ef4847966b.gif)
 
 
+How Full?
+
+![ae_how_full_good_day_final](https://user-images.githubusercontent.com/3278367/33191526-fec47966-d0b1-11e7-8ee5-3c53aea97f89.gif)
+
+
 
 
