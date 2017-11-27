@@ -40,7 +40,8 @@ How Full & How Many (Arrivals & Discharges):
 ![how_full_ae_good_day_superimposed_arrivals_discharges_dual_scale](https://user-images.githubusercontent.com/3278367/33225434-4dd3288c-d16f-11e7-93df-dd87f46e000b.png)
 
 Animated:
-![ae_how_full_good_day_final_superimposed_arrivals_departures_reduced](https://user-images.githubusercontent.com/3278367/33225435-4df8d168-d16f-11e7-88ca-28a40adcad4e.gif)
+![aegoodbyminutemagick](https://user-images.githubusercontent.com/3278367/33246039-ecbc0538-d307-11e7-8c98-db999eea3dac.gif)
+
 
 
 
