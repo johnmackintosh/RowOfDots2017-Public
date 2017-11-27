@@ -32,9 +32,6 @@ Static version:
 ![how_full_ae_good_day](https://user-images.githubusercontent.com/3278367/33191593-b7952292-d0b2-11e7-9d6b-e94cb04e6fa6.png)
 
 
-Animated:
-![ae_how_full_good_day_final](https://user-images.githubusercontent.com/3278367/33191526-fec47966-d0b1-11e7-8ee5-3c53aea97f89.gif)
-
 How Full & How Many (Arrivals & Discharges):
 
 ![how_full_ae_good_day_superimposed_arrivals_discharges_dual_scale](https://user-images.githubusercontent.com/3278367/33225434-4dd3288c-d16f-11e7-93df-dd87f46e000b.png)
