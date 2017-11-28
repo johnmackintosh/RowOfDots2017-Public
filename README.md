@@ -38,7 +38,8 @@ How Full & How Many (Arrivals & Discharges):
 
 
 Animated:
-![aegoodbyminutemagick](https://user-images.githubusercontent.com/3278367/33246191-909c503a-d309-11e7-82cf-2bea3719dab8.gif)
+![aegoodbyminutemagick](https://user-images.githubusercontent.com/3278367/33349312-76ec1cc2-d491-11e7-83dd-f0c4381ef7dd.gif)
+
 
 
 
